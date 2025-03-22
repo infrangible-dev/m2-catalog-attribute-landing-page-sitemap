@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<!--
+ * @author      Andreas Knollmann
+ * @copyright   2014-2025 Softwareentwicklung Andreas Knollmann
+ * @license     http://www.opensource.org/licenses/mit-license.php MIT
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <sitemap>
+            <catalog_attribute_landing_page>
+                <page>
+                    <export>1</export>
+                    <changeFrequency>monthly</changeFrequency>
+                    <priority>1.0</priority>
+                </page>
+                <group>
+                    <export>1</export>
+                    <changeFrequency>monthly</changeFrequency>
+                    <priority>1.0</priority>
+                </group>
+            </catalog_attribute_landing_page>
+        </sitemap>
+        <infrangible_sitemap>
+            <catalog_attribute_landing_page>
+                <page>
+                    <export>1</export>
+                    <changeFrequency>monthly</changeFrequency>
+                    <priority>1.0</priority>
+                </page>
+                <group>
+                    <export>1</export>
+                    <changeFrequency>monthly</changeFrequency>
+                    <priority>1.0</priority>
+                </group>
+            </catalog_attribute_landing_page>
+            <source>
+                <catalog_attribute_landing_page>Infrangible\CatalogAttributeLandingPageSitemap\Model\Source\Page</catalog_attribute_landing_page>
+                <catalog_attribute_landing_pages_group>Infrangible\CatalogAttributeLandingPageSitemap\Model\Source\Group</catalog_attribute_landing_pages_group>
+            </source>
+        </infrangible_sitemap>
+    </default>
+</config>
