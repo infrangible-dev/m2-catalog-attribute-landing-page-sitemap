@@ -28,6 +28,9 @@
         "magento/module-config": "~101.2.0",
         "magento/module-sitemap": "~100.4.0"
     },
+    "require-dev": {
+        "infrangible/phpstan-magento": "~1.0.0"
+    },
     "autoload": {
         "files": [
             "src/registration.php"
