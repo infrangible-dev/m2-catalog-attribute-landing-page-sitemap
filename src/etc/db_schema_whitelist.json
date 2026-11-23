@@ -1,0 +1,12 @@
+{
+    "catalog_attribute_landing_page": {
+        "column": {
+            "exclude_from_sitemap": true
+        }
+    },
+    "catalog_attribute_landing_group": {
+        "column": {
+            "exclude_from_sitemap": true
+        }
+    }
+}
