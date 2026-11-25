@@ -1,11 +1,17 @@
 {
     "name": "infrangible/m2-catalog-attribute-landing-page-sitemap",
-    "description": "Infrangible Magento 2 Catalog Attribute Landing Page Sitemap",
+    "description": "Adds the pages and groups of Catalog Attribute Landing Page to the XML sitemap, with settings for change frequency, priority and per-page exclusion.",
     "type": "magento2-module",
     "version": "2.0.0",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce",
+        "Sitemaps",
+        "SEO",
+        "landing pages in the XML sitemap",
+        "attribute landing page sitemap"
     ],
     "homepage": "https://www.infrangible.dev/modules/catalog-attribute-landing-page-sitemap",
     "authors": [
