@@ -24,7 +24,7 @@ The forms of the pages and groups (Infrangible > Attribute Landing Pages) have t
 ## Requirements
 
 - Magento Open Source or Adobe Commerce 2.4.6 or newer
-- PHP 8.2 or newer
+- PHP 8.1 or newer
 
 ## License
 
